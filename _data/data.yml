@@ -1,0 +1,6 @@
+- name: "Project 1"
+  description: "A sample project description."
+  technologies: ["HTML", "CSS", "JavaScript"]
+- name: "Project 2"
+  description: "Another project description with more details."
+  technologies: ["Jekyll", "Sass", "Vue.js"]
